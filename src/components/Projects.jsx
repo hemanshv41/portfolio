@@ -14,8 +14,8 @@ const PROJECTS_DATA = [
       'Highly optimized memory parser for files up to 200MB',
       'Interactive timelines, word counts, and speaker maps'
     ],
-    github: 'https://github.com',
-    demo: 'https://demo.com',
+    github: 'https://github.com/hemanshv41',
+    demo: 'https://whats-flow-isxe-h2w3un6ks-hemanshv41-4417s-projects.vercel.app/',
     featured: true,
     shadowClass: 'shadow-pink',
     color: 'var(--neon-pink)',
@@ -47,8 +47,8 @@ export function parseWhatsAppChat(fileContent) {
       'Interactive risk parameter slider models in Streamlit',
       'Correlation heatmaps built using Python Seaborn'
     ],
-    github: 'https://github.com',
-    demo: 'https://demo.com',
+    github: 'https://github.com/hemanshv41',
+    demo: 'https://whatsflow-kkxja97us3zzn78jp2bh4k.streamlit.app/',
     featured: false,
     shadowClass: 'shadow-yellow',
     color: 'var(--cyber-yellow)',
